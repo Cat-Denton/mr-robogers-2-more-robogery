@@ -1,3 +1,17 @@
-body {
-  background-color: peachpuff;
+.btn {
+  outline-color: black;
+  outline-width: 5px;
+  background-color: blue;
+  color:blanchedalmond;
+}
+
+#repeatButton {
+  display:none;
+}
+
+#roboRogersPic {
+  max-width: 25%;
+  float:left;
+  padding: 5px;
+  display:none;
 }
